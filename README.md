@@ -1,2 +1,2 @@
 # RepoDePrueba
-Repositorio con porpositos academicos
+Repositorio con propositos academicos
